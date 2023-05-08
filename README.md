@@ -7,8 +7,8 @@
 * 导入自定义js函数<br/>
 * 导入外部js library<br/>
 ## 基础依赖
-* 21.3.0版本的graaljs
-* 3.0.6版本的spring-boot-starter-parent
-## 待定规划
-* 文件支持
-* 多线程交互支持
+* 21.3.0版本的graaljs<br/>
+* 3.0.6版本的spring-boot-starter-parent<br/>
+## 待定
+* 文件支持<br/>
+* 多线程交互支持<br/>
