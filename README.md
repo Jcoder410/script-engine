@@ -2,7 +2,7 @@
 * use GraalJS to execute java script<br/>
 * 支持自定义java函数注册成js函数<br/>
 * 可以通过js函数进行逻辑书写和实现<br/>
-* 集合aop可以修改程序执行逻辑<br/>
+* 结合aop可以修改程序执行逻辑<br/>
 * 结合接口，可以任意构建出需要的接口逻辑<br/>
 * 导入自定义js函数<br/>
 * 导入外部js library<br/>
