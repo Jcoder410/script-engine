@@ -9,4 +9,4 @@ spring:
 script:
   engine:
     outerJsRsList:
-      - lodash.js
+      - customFunc.js
