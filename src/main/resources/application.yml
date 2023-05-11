@@ -1,0 +1,12 @@
+server:
+  port: 9090
+spring:
+  application:
+    name: script-engine
+  messages:
+    encoding: UTF-8
+    basename: messages
+script:
+  engine:
+    outerJsRsList:
+      - lodash.js
