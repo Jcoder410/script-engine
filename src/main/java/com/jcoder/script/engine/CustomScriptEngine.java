@@ -164,6 +164,9 @@ public class CustomScriptEngine implements Closeable {
             }
 
             try (InputStream inputStream = getClass().getClassLoader().getResourceAsStream(location)) {
+                if (inputStream == null) {
+                    continue;
+                }
                 String content = IOUtils.toString(inputStream, StandardCharsets.UTF_8);
                 outJs.append(content);
             } catch (IOException e) {

@@ -11,3 +11,6 @@ script:
     outerJsRsList:
       - customFunc.js
       - lodash.js
+logging:
+  level:
+    com.jcoder.script: debug
