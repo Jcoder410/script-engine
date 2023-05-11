@@ -12,3 +12,8 @@
 ## 待定
 * 文件支持<br/>
 * 多线程交互支持<br/>
+## 使用说明
+* 拓展函数注册信息在service下
+* 直接调用可使用方法：ScriptEnginePool.execute(String script, Object param);
+* 接口调用实现在controller
+* 配置项相关信息对应类为EngineProperties
