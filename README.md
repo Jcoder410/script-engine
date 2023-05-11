@@ -8,7 +8,7 @@
 * 导入外部js library<br/>
 ## 基础依赖
 * 21.3.0版本的graaljs<br/>
-* 3.0.6版本的spring-boot-starter-parent<br/>
+* 2.7.2版本的spring-boot-starter-parent<br/>
 ## 待定
 * 文件支持<br/>
 * 多线程交互支持<br/>
