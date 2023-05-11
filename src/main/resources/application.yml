@@ -10,3 +10,4 @@ script:
   engine:
     outerJsRsList:
       - customFunc.js
+      - lodash.js
