@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 可执行对象池工厂类
  *
- * @author Qiu
+ * @author Jcoder
  */
 public class ScriptEnginePoolFactory extends BasePooledObjectFactory<CustomScriptEngine> {
 
